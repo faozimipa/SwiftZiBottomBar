@@ -1,3 +1,3 @@
 struct ZiBottomBar {
-    var text = "Hello, World!"
+    var text = "Test Hello, World!"
 }
